@@ -7,7 +7,7 @@ A rendszer képes a felhasználó beszédének felismerésére, a hang alapján 
 ## Élő demonstráció
 
 Az aktuálisan elérhető élő demó link:
-https://IDE_JÖN_A_GRADIO_LINK
+
 
 A demonstráció Gradio alapú webes felületen fut. A Gradio link hetente lejár, ezért a legfrissebb működő elérhetőség mindig ebben a repositoryban kerül frissítésre.
 
@@ -15,7 +15,7 @@ A demonstráció Gradio alapú webes felületen fut. A Gradio link hetente lejá
 
 A demonstrációs rendszer aktuálisan használt forráskódja az alábbi GitHub repositoryban érhető el:
 
-https://github.com/FELHASZNALONEV/REPO_NEV
+
 
 A repository tartalmazza a rendszer futtatásához szükséges kódrészleteket.
 
