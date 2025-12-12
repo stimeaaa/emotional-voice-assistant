@@ -13,9 +13,7 @@ A demonstráció Gradio alapú webes felületen fut. A Gradio link hetente lejá
 
 ## Forráskód
 
-A demonstrációs rendszer aktuálisan használt forráskódja az alábbi GitHub repositoryban érhető el:
-
-
+A demonstrációs rendszer aktuálisan használt forráskódja az alábbi GitHub repositoryban érhető el:  https://github.com/stimeaaa/emotional-voice-assistant/blob/main/emotional_VA.ipynb
 
 A repository tartalmazza a rendszer futtatásához szükséges kódrészleteket.
 
