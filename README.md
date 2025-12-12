@@ -6,7 +6,7 @@ A rendszer képes a felhasználó beszédének felismerésére, a hang alapján 
 
 ## Élő demonstráció
 
-Az aktuálisan elérhető élő demó link:
+Az aktuálisan elérhető élő demó link:  https://2f10a467a527bba33c.gradio.live
 
 
 A demonstráció Gradio alapú webes felületen fut. A Gradio link hetente lejár, ezért a legfrissebb működő elérhetőség mindig ebben a repositoryban kerül frissítésre.
