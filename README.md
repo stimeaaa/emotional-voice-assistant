@@ -19,4 +19,4 @@ A repository tartalmazza a rendszer futtatásához szükséges kódrészleteket.
 
 ## Demo
 
-5 perces videó a rendszer teszteléséről: 
+5 perces videó a rendszer teszteléséről: https://drive.google.com/file/d/1IISqTkAN09cnrH9zMcdwO5uiGOnwtSoa/view?usp=sharing
